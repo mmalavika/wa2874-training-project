@@ -1,1 +1,5 @@
 initial setup
+Create a login for site
+Login to the site
+look for list of events
+register for one or more events
