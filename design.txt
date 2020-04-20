@@ -1,0 +1,10 @@
+UI:
+login page
+register user page
+events page
+
+microservice to register as a user:
+
+microservice to login as a user:
+
+microservice to manage events -retrieve a list of events; -register logged in user to events:
