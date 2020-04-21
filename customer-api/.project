@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>customer-api</name>
-	<comment>Project customer-api created by Buildship.</comment>
+	<name>spring-boot-rest</name>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
