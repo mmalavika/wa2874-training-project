@@ -1,0 +1,7 @@
+com\webage\jwt\JWTUtil.class
+com\webage\repository\CustomersRepository.class
+com\webage\App.class
+com\webage\api\CustomerAPI.class
+com\webage\domain\Customer.class
+com\webage\jwt\AuthFilter.class
+com\webage\jwt\JWTHelper.class

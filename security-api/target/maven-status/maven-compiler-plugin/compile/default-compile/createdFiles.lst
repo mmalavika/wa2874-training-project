@@ -1,0 +1,8 @@
+com\webage\jwt\JWTUtil.class
+com\webage\App.class
+com\webage\domain\Token.class
+com\webage\jwt\AuthFilter.class
+com\webage\jwt\JWTHelper.class
+com\webage\domain\TokenRequestData.class
+com\webage\api\TokenAPI.class
+com\webage\jwt\Authenticator.class
